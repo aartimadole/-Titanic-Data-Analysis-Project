@@ -48,23 +48,20 @@ Below are the visualizations generated in the project:
 ![Survival by Gender](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/3864c5bd55442182b38ae554e1574ba38210550f/Titanic%20python%20project/plots%20images)
 
 ### 3. Survival by Passenger Class
-![Survival by Class]https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/303e115754b00712186715700759c89978b96f05/Titanic%20python%20project/plots%20images/survival_by_class.png
+![Survival by Class](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/303e115754b00712186715700759c89978b96f05/Titanic%20python%20project/plots%20images)
 
 
 ### 4. Age Distribution
-![Age Distribution]
-](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/main/Titanic%20python%20project/plots%20images/age_distribution.png?raw=true)
+![Age Distribution](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/main/Titanic%20python%20project/plots%20images)
 
 ### 5. Age vs Survival
-![Age vs Survival](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/0091414c20fec6dc6e8229099229369d29711b0e/Titanic%20python%20project/plots%20images/age_vs_survival.png)
+![Age vs Survival](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/main/Titanic%20python%20project/plots%20images)
 
 ### 6. Fare Distribution
-![Fare Distribution]https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images/fare_distribution.png
+![Fare Distribution](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images)
 
 ### 7. Correlation Heatmap
-![Correlation Heatmap]
-
----https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images/correlation_heatmap.png
+![Correlation Heatmap](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images)
 
 ## 📈 Key Insights
 - **Females** had a significantly higher survival rate than males.
