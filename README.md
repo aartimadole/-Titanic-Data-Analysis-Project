@@ -46,7 +46,8 @@ The dataset contains information about 891 passengers, including:
 Below are the visualizations generated in the project:
 
 ### 1. Survival Count
-![Survival Count](E:\Titanic python project\survival_by_gender.png)
+![Survival Count]<img width="929" height="539" alt="survival _count" src="https://github.com/user-attachments/assets/de5bfec1-b010-498e-a7a7-566047437be5" />
+
 
 ### 2. Survival by Gender
 ![Survival by Gender](images/survival_by_gender.png)
