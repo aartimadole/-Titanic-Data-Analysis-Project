@@ -42,7 +42,7 @@ The dataset contains information about 891 passengers, including:
 Below are the visualizations generated in the project:
 
 ### 1. Survival Count
-![Survival Count]"E:\Titanic python project\plots images\survival_count.png"
+![Survival Count](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/b6046d4478e0408e5fc71b4b5fd8c3e7c872d973/Titanic%20python%20project/plots%20images)
 
 ### 2. Survival by Gender
 ![Survival by Gender]<img width="1000" height="600" alt="survival_by_gender" src="https://github.com/user-attachments/assets/003cad7b-5c43-4fe0-9fcd-555ec580182f" />
