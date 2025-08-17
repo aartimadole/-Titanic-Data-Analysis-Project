@@ -59,10 +59,10 @@ Below are the visualizations generated in the project:
 ![Age vs Survival](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/0091414c20fec6dc6e8229099229369d29711b0e/Titanic%20python%20project/plots%20images/age_vs_survival.png)
 
 ### 6. Fare Distribution
-![Fare Distribution]
+![Fare Distribution]https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images/fare_distribution.png
 
 ### 7. Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap]
 
 ---
 
