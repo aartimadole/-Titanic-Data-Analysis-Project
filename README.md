@@ -64,7 +64,7 @@ Below are the visualizations generated in the project:
 ### 7. Correlation Heatmap
 ![Correlation Heatmap]
 
----
+---https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/cfc6cab0c1fa8a303f500d936c74e68e796a752a/Titanic%20python%20project/plots%20images/correlation_heatmap.png
 
 ## 📈 Key Insights
 - **Females** had a significantly higher survival rate than males.
