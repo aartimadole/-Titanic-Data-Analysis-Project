@@ -1,4 +1,4 @@
-                                                      # 🛳 Titanic Data Analysis Project
+# 🛳 Titanic Data Analysis Project
 
 ## 📌 Project Overview
 This project analyzes the **Titanic dataset** to uncover insights about passenger survival rates.  
