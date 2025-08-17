@@ -48,7 +48,7 @@ Below are the visualizations generated in the project:
 ![Survival by Gender][Titanic python project/plots images/survival_by_gender.png](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/3864c5bd55442182b38ae554e1574ba38210550f/Titanic%20python%20project/plots%20images/survival_by_gender.png)
 
 ### 3. Survival by Passenger Class
-![Survival by Class](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/1bdd00b537df128f37ab971d7710ce7a83e53ba2/Titanic%20python%20project/plots%20images/survival_by_class.png)
+![Survival by Class]https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/303e115754b00712186715700759c89978b96f05/Titanic%20python%20project/plots%20images/survival_by_class.png
 
 
 ### 4. Age Distribution
