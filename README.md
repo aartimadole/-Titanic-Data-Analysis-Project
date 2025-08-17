@@ -52,8 +52,8 @@ Below are the visualizations generated in the project:
 
 
 ### 4. Age Distribution
-![Age Distribution](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/de96dd03506eb242e3fafd098bc93c7132066533/Titanic%20python%20project/plots%20images/age_distribution.png)
-
+![Age Distribution]
+](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/main/Titanic%20python%20project/plots%20images/age_distribution.png?raw=true)
 
 ### 5. Age vs Survival
 ![Age vs Survival](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/0091414c20fec6dc6e8229099229369d29711b0e/Titanic%20python%20project/plots%20images/age_vs_survival.png)
