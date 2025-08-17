@@ -46,17 +46,20 @@ The dataset contains information about 891 passengers, including:
 Below are the visualizations generated in the project:
 
 ### 1. Survival Count
-![Survival Count]<img width="929" height="539" alt="survival _count" src="https://github.com/user-attachments/assets/de5bfec1-b010-498e-a7a7-566047437be5" />
+![Survival Count]<img width="3000" height="1800" alt="survival_count" src="https://github.com/user-attachments/assets/e5449bba-08f8-4af7-afc7-38c3f03cbd9c" />
 
 
 ### 2. Survival by Gender
-![Survival by Gender](images/survival_by_gender.png)
+![Survival by Gender]<img width="1000" height="600" alt="survival_by_gender" src="https://github.com/user-attachments/assets/003cad7b-5c43-4fe0-9fcd-555ec580182f" />
+
 
 ### 3. Survival by Passenger Class
-![Survival by Class](images/survival_by_class.png)
+![Survival by Class]<img width="1000" height="600" alt="survival_by_class" src="https://github.com/user-attachments/assets/42edce76-6603-4f1e-ba92-47bc7a077f2b" />
+
 
 ### 4. Age Distribution
-![Age Distribution](images/age_distribution.png)
+![Age Distribution]<img width="1000" height="600" alt="age_distribution" src="https://github.com/user-attachments/assets/9bd66790-79b9-45e8-9684-a2016c1f085d" />
+
 
 ### 5. Age vs Survival
 ![Age vs Survival](images/age_vs_survival.png)
