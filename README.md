@@ -45,7 +45,7 @@ Below are the visualizations generated in the project:
 ![Survival Count](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/b6046d4478e0408e5fc71b4b5fd8c3e7c872d973/Titanic%20python%20project/plots%20images)
 
 ### 2. Survival by Gender
-![Survival by Gender][Titanic python project/plots images/survival_by_gender.png](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/3864c5bd55442182b38ae554e1574ba38210550f/Titanic%20python%20project/plots%20images)
+![Survival by Gender](https://github.com/aartimadole/-Titanic-Data-Analysis-Project/tree/3864c5bd55442182b38ae554e1574ba38210550f/Titanic%20python%20project/plots%20images)
 
 ### 3. Survival by Passenger Class
 ![Survival by Class]https://github.com/aartimadole/-Titanic-Data-Analysis-Project/blob/303e115754b00712186715700759c89978b96f05/Titanic%20python%20project/plots%20images/survival_by_class.png
